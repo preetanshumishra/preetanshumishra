@@ -107,53 +107,6 @@ Creating unified codebases that deliver native-quality experiences across multip
 
 <br>
 
-## 🚀 Featured Mobile Projects
-
-<details open>
-<summary><b>💰 FinBoss - Financial Management Mobile Apps</b></summary>
-<br>
-
-A complete financial management platform showcasing native and cross-platform mobile expertise:
-
-```
-📱 Mobile Applications
-├── 🍎 iOS App (Swift 6 + SwiftUI + MVVM + Dependency Injection)
-├── 🤖 Android App (Kotlin + Jetpack Compose + Material3 + Dagger)
-├── ⚛️ React Native App (Expo + TypeScript + Zustand)
-├── 🔧 Supporting Backend (Node.js + Express + MongoDB)
-└── 🌐 Web Interface (React 19)
-```
-
-**Mobile Features:**
-- 📊 Transaction tracking with real-time sync
-- 💰 Budget management and analytics
-- 🎨 Dark mode with SwiftUI & Compose
-- 🔐 Secure authentication with Keychain/KeyStore
-- ♿ Accessibility features for all users
-- 📈 Performance monitoring and analytics
-
-🔗 [Explore FinBoss Mobile Apps](https://github.com/preetanshumishra?tab=repositories&q=finboss)
-
-</details>
-
-<details>
-<summary><b>🎨 Cross-Platform Mobile Development Showcase</b></summary>
-<br>
-
-**[.NET MAUI Samples](https://github.com/preetanshumishra?tab=repositories&q=maui)** - Modern MAUI apps with different MVVM frameworks
-- MauiWithMvvm - Community Toolkit MVVM with Dependency Injection
-- MauiWithPrism - MVVM using Prism library
-- MauiWithMvvCross - MVVM using MvvmCross library
-- MauiThemeSample - Sample App for Dynamic Theming across platforms
-
-**[React Native Dynamic Theme](https://github.com/preetanshumishra/ReactNativeDynamicTheme)** - Cross-Platform theming with Zustand
-
-**[DotNetMobileApp](https://github.com/preetanshumishra/DotNetMobileApp)** - Native iOS (UIKit) + Android with shared business logic
-
-</details>
-
-<br>
-
 ## 📊 Mobile Development Journey
 
 <div align="center">
@@ -181,7 +134,7 @@ A complete financial management platform showcasing native and cross-platform mo
 
 ### 💼 Professional Journey
 
-<details>
+<details open>
 <summary><b>🏢 Career Timeline - Click to expand</b></summary>
 <br>
 
@@ -252,6 +205,53 @@ A complete financial management platform showcasing native and cross-platform mo
 - 📱 Built **25+ mobile applications** for diverse industries
 - 🌍 Delivered solutions for **construction, social networking, healthcare, and enterprise** sectors
 - 🎓 Mentored developers in **Swift, Kotlin, Xamarin, and .NET MAUI**
+
+</details>
+
+<br>
+
+## 🚀 Featured Mobile Projects
+
+<details open>
+<summary><b>💰 FinBoss - Financial Management Mobile Apps</b></summary>
+<br>
+
+A complete financial management platform showcasing native and cross-platform mobile expertise:
+
+```
+📱 Mobile Applications
+├── 🍎 iOS App (Swift 6 + SwiftUI + MVVM + Dependency Injection)
+├── 🤖 Android App (Kotlin + Jetpack Compose + Material3 + Dagger)
+├── ⚛️ React Native App (Expo + TypeScript + Zustand)
+├── 🔧 Supporting Backend (Node.js + Express + MongoDB)
+└── 🌐 Web Interface (React 19)
+```
+
+**Mobile Features:**
+- 📊 Transaction tracking with real-time sync
+- 💰 Budget management and analytics
+- 🎨 Dark mode with SwiftUI & Compose
+- 🔐 Secure authentication with Keychain/KeyStore
+- ♿ Accessibility features for all users
+- 📈 Performance monitoring and analytics
+
+🔗 [Explore FinBoss Mobile Apps](https://github.com/preetanshumishra?tab=repositories&q=finboss)
+
+</details>
+
+<details open>
+<summary><b>🎨 Cross-Platform Mobile Development Showcase</b></summary>
+<br>
+
+**[.NET MAUI Samples](https://github.com/preetanshumishra?tab=repositories&q=maui)** - Modern MAUI apps with different MVVM frameworks
+- MauiWithMvvm - Community Toolkit MVVM with Dependency Injection
+- MauiWithPrism - MVVM using Prism library
+- MauiWithMvvCross - MVVM using MvvmCross library
+- MauiThemeSample - Sample App for Dynamic Theming across platforms
+
+**[React Native Dynamic Theme](https://github.com/preetanshumishra/ReactNativeDynamicTheme)** - Cross-Platform theming with Zustand
+
+**[DotNetMobileApp](https://github.com/preetanshumishra/DotNetMobileApp)** - Native iOS (UIKit) + Android with shared business logic
 
 </details>
 
