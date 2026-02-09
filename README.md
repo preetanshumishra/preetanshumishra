@@ -30,7 +30,7 @@ I specialize in building high-performance native mobile applications that levera
 **Platforms:**
 - 🍎 **iOS** - Swift 6, SwiftUI, UIKit
 - 🤖 **Android** - Kotlin, Jetpack Compose, XML
-- 🏗️ **Architecture** - MVVM, Clean Code
+- 🏗️ **Architecture** - MVVM, Clean Code, SOLID
 - 🔧 **Tools** - Xcode, Android Studio
 
 <br>
@@ -42,9 +42,9 @@ I specialize in building high-performance native mobile applications that levera
 Creating unified codebases that deliver native-quality experiences across multiple platforms with maximum code reuse and efficiency.
 
 **Frameworks:**
-- ⚛️ **React Native** & Expo
 - 🔷 **.NET MAUI** - Modern Cross-Platform
-- 📱 **Xamarin** - Legacy enterprise apps
+- 📱 **Xamarin** - Legacy Enterprise Apps
+- ⚛️ **React Native** & Expo
 - 🔧 **Tools** - Visual Studio Code, JetBrains Rider
 
 <br>
