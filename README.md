@@ -152,51 +152,75 @@ Creating unified codebases that deliver native-quality experiences across multip
 
 #### 🏗️ Stack Constructions Canada | Software Engineer (Dec 2023 - Nov 2025)
 **What I worked on:** Led mobile application development for Stack Build & Operate app, a comprehensive construction management platform.
-- ✅ Designed and implemented new features for iOS and Android platforms using Swift and Kotlin
+- ✅ Built custom **2D drawing canvas** with Swift/Kotlin for construction takeoff measurements - supporting multi-touch gestures, multiple layers of drawings, real-time area calculations, and vector-based infinite zoom
+- ✅ Contributed to **50% reduction in plan review time** through offline-first architecture enabling field crews to work without WiFi
 - ✅ Architected MVVM pattern with clean code principles for improved maintainability
-- ✅ Optimized app performance resulting in 40% faster load times
 - ✅ Mentored junior developers in mobile development best practices
+
+📱 **App:** [STACK Construction Management App - App Store](https://apps.apple.com/us/app/stack-construction-management/id1221957820)
 
 #### 🎮 Sidekick Interactive | Mobile Developer (Nov 2023 - Feb 2024)
 **What I worked on:** Maintained and modernized multiple enterprise applications migrating from Xamarin.Forms to .NET MAUI.
-- ✅ Successfully migrated legacy Xamarin.Forms apps to modern .NET MAUI framework
+- ✅ **Modernized enterprise application portfolio** by migrating legacy Xamarin.Forms apps to .NET MAUI framework - improving performance, user experience, and long-term maintainability
 - ✅ Fixed critical bugs affecting user experience in production apps
-- ✅ Implemented automated testing to improve code reliability
-- ✅ Reduced technical debt through systematic refactoring efforts
+- ✅ Implemented automated testing suite and reduced technical debt through systematic refactoring
+
+📱 **Apps:**
+- [ID Side App - App Store](https://apps.apple.com/us/app/id-side/id1501285064)
+- [Id Concerto App - App Store](https://apps.apple.com/us/app/id-concerto/id896256692)
+- [Id Écho App - App Store](https://apps.apple.com/us/app/id-%C3%A9cho/id1502448085)
+- [Id Side Echo App - App Store](https://apps.apple.com/us/app/idside-echo/id1342685134)
+- [Id Texto App - App Store](https://apps.apple.com/us/app/id-texto/id1461394776)
 
 #### 💼 LinkedIn | Senior Software Engineer (Jun 2021 - May 2023) ⭐ *Fortune 500*
-**What I worked on:** Designed and implemented features for the Workplace Management App, helping employees efficiently manage office facility usage.
-- ✅ Architected and delivered features for iOS and Android platforms
-- ✅ Implemented real-time notifications and synchronization mechanisms
+**What I worked on:** Designed and implemented features for the Workplace Management App (OLA), helping employees efficiently manage office facility usage.
+- ✅ Built **interactive floor plan visualization** with real-time occupancy status and **QR code check-in system** for LinkedIn's internal Workplace Management App - improving office resource utilization and employee productivity using Swift/Kotlin
+- ✅ Architected **real-time system with WebSocket integration** and native calendar synchronization (EventKit/CalendarContract) - serving **thousands of LinkedIn employees** for room bookings, desk reservations, food ordering, and meeting coordination across iOS and Android
 - ✅ Led code review process ensuring high code quality standards
 - ✅ Collaborated with product and design teams to deliver user-centric solutions
 - ✅ Implemented analytics and monitoring to track app performance and user engagement
 - ✅ Implemented Accessibility features to improve app usability for all users
 
+📄 **Article:** [Introducing OLA: LinkedIn's internal mobile app for global workforce](https://engineering.linkedin.com/blog/2022/introducing-ola)
+
 #### 🏢 Hexaware Technologies | System Analyst (Oct 2018 - May 2021)
 **What I worked on:** Technical lead for multiple mission-critical mobile applications, managing teams of 2-6 developers across different projects.
-- ✅ Led HR Management System App development, overseeing timesheets and payroll management for 500+ employees
-- ✅ Developed Vehicle Insurance System enabling customers to manage policies seamlessly
-- ✅ Collaborated with team of 6 developers on Healthcare and Fitness App features
+- ✅ Built **enterprise HR Management System** with digital timesheet management, leave workflow with approval hierarchy, secure payroll module featuring biometric authentication (Touch ID/Face ID), encrypted PDF payslips with bulk download capability, and employee directory with offline caching - serving **1000+ employees** with SSL pinning and encrypted data storage
+- ✅ Built **comprehensive vehicle insurance management system** with digital policy dashboard displaying real-time coverage details, claims submission with photo upload, renewal workflow with premium recalculation based on NCB eligibility, and integrated payment gateway supporting multiple payment methods (UPI, cards, net banking) with PCI DSS compliance, garage network locator with map integration and real-time claim status tracking
+- ✅ Built class booking system for Life Time Member App (filtering by type, instructor, difficulty), spa/salon appointment scheduling with therapist selection, workout video streaming with offline download capability during COVID-19 lockdown, TV casting integration (AirPlay/ChromeCast) with real-time Heart Rate Monitor using BLE, and restaurant ordering with real-time order tracking
 - ✅ Implemented enterprise-grade architecture patterns and best practices
 - ✅ Managed end-to-end development lifecycle from design to deployment
 
+📱 **Apps:**
+- [Manpower Associates App - App Store](https://apps.apple.com/us/app/my-manpower-trabajo-y-empleo/id1569784517)
+- [Direct Auto Insurance App - App Store](https://apps.apple.com/us/app/direct-auto-insurance/id1571501814)
+- [Life Time Digital App - App Store](https://apps.apple.com/us/app/life-time-digital/id1192326768)
+
 #### 💡 Xebia India | Consultant (Jan 2017 - Sep 2018)
 **What I worked on:** Developed and maintained multiple cross-platform mobile applications using Xamarin frameworks.
-- ✅ Developed Training and Education App as sole developer, managing complete development lifecycle
-- ✅ Collaborated with team of 6 on Healthcare and Fitness App, integrating complex features
-- ✅ Built IT Services App using Xamarin.iOS with MvvmCross framework
-- ✅ Designed and implemented Aviation Management App with focus on regulatory compliance
+- ✅ Built **mobile training platform for Xebia Academy** supporting course catalog, enrollment management, training schedules, learning materials access, and progress tracking using Xamarin.Forms and Prism MVVM - enabling digital learning delivery for professional development courses in Agile, DevOps, Cloud, and Software Engineering disciplines. **Sole developer** responsible for complete development lifecycle from requirements to deployment
+- ✅ Built class booking system for Life Time Member App (filtering by type, instructor, difficulty), spa/salon appointment scheduling with therapist selection, workout video streaming with offline download capability during COVID-19 lockdown, TV casting integration (AirPlay/ChromeCast) with real-time Heart Rate Monitor using BLE, and restaurant ordering with real-time order tracking
+- ✅ Built IT Services App (Xamarin.iOS, MVVM): As a sole developer, managed the complete development and deployment of the app that supports engagements with different companies for the client
+- ✅ Built **three aviation management systems for SpiceJet**: SpicyCrewPortal for crew member access to portal and CFRs, InFlight Audit app for auditing crew behaviour and compliance during flights with digital report generation for government review, and Spice FMS (Fuel Management System) for controlling fuel usage in aircraft with GPU/ACU monitoring - enabling digital transformation of aviation operations and regulatory compliance
 - ✅ Mentored team members on Xamarin and MVVM patterns
+
+🔗 **Links:**
+- [Xebia Academy](https://xebia.com/academy)
+- [InFlight Audit App - App Store](https://apps.apple.com/us/app/inflight-audit/id1557422816)
+- [SpicyCrewPortal App - App Store](https://apps.apple.com/us/app/spicycrewportal/id6741193510)
+- [Spice FMS App - App Store](https://apps.apple.com/us/app/spice-fms/id6444888522)
+- [Life Time Digital App - App Store](https://apps.apple.com/us/app/life-time-digital/id1192326768)
 
 #### 🚀 EPAM India | Software Engineer (Feb 2014 - Jan 2017)
 **What I worked on:** Developed diverse mobile applications across iOS, Android, and Windows platforms, collaborating with global teams.
-- ✅ Built Automated Vehicle Sales Management App optimizing user experience for dealerships
-- ✅ Created Mobile Analytics App with data visualization capabilities
-- ✅ Developed IT Services App supporting startup engagements
-- ✅ Built Inventory Management System with offline-first capabilities
-- ✅ Created Enterprise App Store for internal company app distribution
-- ✅ Developed Salesforce Management App for cloud-based operations
+- ✅ Built **automated vehicle sales management app for Lookers UK dealership network** with inventory management, customer relationship tracking, test drive scheduling, finance calculation tools, and digital paperwork processing - streamlining end-to-end sales workflow from initial inquiry to final delivery. Integrated real-time vehicle availability sync across multiple dealership locations, automated pricing engine with trade-in valuation, and digital signature capture for contract execution using Xamarin.iOS, Xamarin.Android, and MvvmCross
+- ✅ **Mobile Analytics App** (Xamarin.iOS): Worked with a team of 5 developers to create UI and integrate it with a mobile analytics API and show the data in graphical format
+- ✅ **IT Services App** (Xamarin.WinPhone, Xamarin.Android): Worked with a team of 4 developers providing support sales and communication for the different startups that deal with the client
+- ✅ **Inventory Management App** (Xamarin.WinPhone, Xamarin.Android, SQLite): Worked with a team of 5 developers to ease the inventory management for a warehouse
+- ✅ **Enterprise App Store** (Xamarin.iOS): Worked with a team of 4 developers to create a space for all the company's internal apps segregated on the basis of department and categories
+- ✅ **Salesforce Management App** (Xamarin.Android): Salesforce Cloud-based Management App to automate the company's management functions
+
+🔗 **Link:** [New and Used Cars for Sale Across the UK | Lookers](https://www.lookers.co.uk/)
 
 <br>
 
