@@ -265,6 +265,30 @@ A complete financial management platform showcasing native and cross-platform mo
 </details>
 
 <details open>
+<summary><b>🏃 Stride - Smart Errand Routing & Place Saving</b></summary>
+<br>
+
+A smart errand management and personal place saving platform powered by the Woosmap Geofencing SDK:
+
+```
+📍 Stride Ecosystem
+├── 🍎 iOS App (Swift 6 + SwiftUI + WoosmapGeofencing SDK)
+├── 🤖 Android App (Kotlin + Jetpack Compose + Woosmap SDK)
+└── 🔧 Backend API (Node.js + Express + MongoDB)
+```
+
+**Key Features:**
+- 📍 Personal place saving with tags and collections
+- 🗺️ Smart errand routing (nearest-neighbor algorithm)
+- 🏠 Passive visit detection via Woosmap Geofencing SDK
+- 🔔 Geofence alerts — notifies when near a saved place with pending errands
+- 🔐 JWT authentication with refresh token rotation and theft detection
+
+🔗 [Explore Stride Projects](https://github.com/preetanshumishra?tab=repositories&q=stride)
+
+</details>
+
+<details open>
 <summary><b>🎨 Cross-Platform Mobile Development Showcase</b></summary>
 <br>
 
@@ -295,6 +319,7 @@ let currentFocus = MobileDevelopmentGoals(
     ],
     building: [
         "FinBoss Real-time Mobile Sync",
+        "Stride Smart Errand Routing",
         "Advanced Mobile Analytics",
         "Cross-Platform UI Components"
     ],
