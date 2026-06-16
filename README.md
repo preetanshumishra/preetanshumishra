@@ -289,6 +289,86 @@ A smart errand management and personal place saving platform powered by the Woos
 </details>
 
 <details open>
+<summary><b>📰 Postly - Social Feed Across Four UI Toolkits</b></summary>
+<br>
+
+The same social feed app built four ways to compare iOS and Android UI toolkits side by side, all wired to a shared backend API:
+
+```
+📰 Postly Suite
+├── 🍎 iOS SwiftUI (MVVM-C + @Observable)
+├── 🍎 iOS UIKit (MVVM-C + Combine)
+├── 🤖 Android Compose (MVVM + Dagger KSP + Material3)
+└── 🤖 Android XML (MVVM + StateFlow + Dagger KSP)
+```
+
+**Key Features:**
+- 📰 Social feed with posts, users, and comments
+- 🔄 Identical feature set across all four toolkits for direct comparison
+- 🏗️ MVVM + Coordinator (iOS) / MVVM (Android)
+- 🔌 Shared zero-dependency backend API
+
+🔗 [Explore Postly Projects](https://github.com/preetanshumishra?tab=repositories&q=postly)
+
+</details>
+
+<details open>
+<summary><b>🧩 PatternKit - Mobile Architecture Pattern Reference</b></summary>
+<br>
+
+The same Tasks CRUD app implemented 14 times across architecture × UI-toolkit combinations — a side-by-side reference where the only thing that changes is the architecture. Each module is a standalone, zero-dependency starter template:
+
+```
+🧩 PatternKit (14 modules)
+├── 🍎 iOS (7) — Swift 6, SwiftUI & UIKit
+│   ├── MVVM + Coordinator (SwiftUI / UIKit)
+│   ├── Clean Architecture (SwiftUI / UIKit)
+│   ├── TCA (SwiftUI)
+│   └── MVP & VIPER (UIKit)
+└── 🤖 Android (7) — Kotlin, Jetpack Compose & XML
+    ├── MVVM (Compose / XML)
+    ├── MVVM + Clean (Compose / XML)
+    ├── MVI + Clean (Compose / XML)
+    └── MVP (XML)
+```
+
+**Highlights:**
+- 🧩 14 standalone modules — identical feature set, only the architecture differs
+- 🏗️ Patterns: MVVM, Clean Architecture, TCA, MVI, MVP, VIPER, Coordinator
+- 🍎 iOS: Swift 6 with SwiftUI & UIKit
+- 🤖 Android: Kotlin with Jetpack Compose & XML Views
+- 📦 Each module is a self-contained, clone-and-go starter template
+
+🔗 [Explore PatternKit Projects](https://github.com/preetanshumishra?tab=repositories&q=patternkit)
+
+</details>
+
+<details open>
+<summary><b>🌦️ Truweather - Full-Stack .NET 10 Weather Platform</b></summary>
+<br>
+
+A complete full-stack weather application built end to end on .NET 10, spanning backend, web, and mobile:
+
+```
+🌦️ Truweather (.NET 10)
+├── 🔧 API (ASP.NET Core + Entity Framework + JWT)
+├── 🌐 Web (Blazor Server)
+├── 📱 Mobile (.NET MAUI)
+└── 📦 Core (shared domain & services)
+```
+
+**Key Features:**
+- 🔐 JWT authentication with secure token handling
+- 🌡️ Real-time weather data via Open-Meteo
+- 🌍 10-language internationalization (i18n)
+- 📴 Offline caching for resilient mobile use
+- ✅ 66 tests with xUnit
+
+🔗 [Explore Truweather](https://github.com/preetanshumishra/Truweather)
+
+</details>
+
+<details open>
 <summary><b>🎨 Cross-Platform Mobile Development Showcase</b></summary>
 <br>
 
@@ -301,6 +381,8 @@ A smart errand management and personal place saving platform powered by the Woos
 **[React Native Dynamic Theme](https://github.com/preetanshumishra/ReactNativeDynamicTheme)** - Cross-Platform theming with Zustand
 
 **[DotNetMobileApp](https://github.com/preetanshumishra/DotNetMobileApp)** - Native iOS (UIKit) + Android with shared business logic
+
+**[Theme-Xamarin-Forms](https://github.com/preetanshumishra/Theme-Xamarin-Forms)** - Xamarin.Forms XAML resource-based theming and dynamic theme switching
 
 </details>
 
